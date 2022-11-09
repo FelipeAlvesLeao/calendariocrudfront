@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+
+
+.btn-popup{
+    display: flex;
+    margin: auto;  
+}
